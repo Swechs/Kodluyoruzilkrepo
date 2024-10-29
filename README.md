@@ -1,6 +1,6 @@
 # Kodluyoruzilkrepo
  ## Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
-(https://i.hizliresim.com/li7cc4n.png)
+![](https://i.hizliresim.com/li7cc4n.png)
 
 ## Installation
 ### Öncelikle projeyi clonelayın.
